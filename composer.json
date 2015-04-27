@@ -1,5 +1,5 @@
 {
-    "name": "agerasimov/wmsigner",
+    "name": "https://github.com/agerasimov/WMSigner",
     "version":"1.0.0",
     "description": "WebMoney Exchanger API for the Yii 2 Framework",
     "keywords": ["yii2", "webmoney", "exchange", "api", "wm"],
