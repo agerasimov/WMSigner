@@ -9,5 +9,9 @@
             "name": "Alexander Gerasimov",
             "email": "gsm.off@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": { "richweber\\wm\\exchanger\\": "" }
+    }
 }
