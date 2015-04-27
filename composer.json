@@ -10,8 +10,5 @@
             "email": "gsm.off@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "autoload": {
-        "psr-4": { "richweber\\wm\\exchanger\\": "" }
-    }
+    "minimum-stability": "dev"
 }
