@@ -1,6 +1,6 @@
 {
     "name": "agerasimov/wmsigner",
-    "version":"1.0.0",
+    "version":"1.0.1",
     "description": "WebMoney Signer",
     "keywords": ["webmoney", "signer", "wm"],
     "type": "library",
