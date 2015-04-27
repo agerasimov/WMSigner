@@ -16,9 +16,6 @@
             "email": "rbagatyi@gmail.com"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": { "richweber\\wm\\exchanger\\": "" }
